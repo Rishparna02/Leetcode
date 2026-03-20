@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Rishparna02/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Rishparna02/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/Rishparna02/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/Rishparna02/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Rishparna02/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/Rishparna02/Leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +38,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Rishparna02/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
