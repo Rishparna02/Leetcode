@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Rishparna02/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Rishparna02/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Hash Table
@@ -16,6 +17,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishparna02/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -34,17 +36,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rishparna02/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +65,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -68,6 +74,7 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -77,4 +84,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
