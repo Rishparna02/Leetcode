@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Rishparna02/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/Rishparna02/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0075-sort-colors](https://github.com/Rishparna02/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishparna02/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rishparna02/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishparna02/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -120,4 +121,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rishparna02/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishparna02/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishparna02/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
