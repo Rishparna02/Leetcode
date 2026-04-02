@@ -1,12 +1,12 @@
 public class Solution {
     public void reverseString(char[] s) {
-        Stack<Character> stack = new Stack<>();
-        for (char c : s) {
-            stack.push(c);
-        }
-        int i = 0;
-        while (!stack.isEmpty()) {
-            s[i++] = stack.pop();
+        int l = 0, r = s.length - 1;
+        while(l < r){
+            char temp = s[l];
+            s[l] = s[r];
+            s[r] = temp;
+            l++;
+            r--;
         }
     }
 }
