@@ -4,11 +4,11 @@ class Solution {
 
         StringBuilder res = new StringBuilder();
 
-        for(int i = 0, j = 0; i < n || j < m; i++, j++){
+        for(int i = 0; i < n || i < m; i++){
             if(i < n){
                 res.append(word1.charAt(i));
             }
-            if(j < m){
+            if(i < m){
                 res.append(word2.charAt(i));
             }
         }
