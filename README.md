@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/Rishparna02/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishparna02/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rishparna02/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishparna02/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishparna02/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Rishparna02/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -54,6 +55,7 @@
 | [0075-sort-colors](https://github.com/Rishparna02/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rishparna02/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rishparna02/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishparna02/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Rishparna02/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Rishparna02/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Rishparna02/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -144,4 +146,8 @@
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishparna02/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Rishparna02/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishparna02/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
