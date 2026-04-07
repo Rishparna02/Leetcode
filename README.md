@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishparna02/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Rishparna02/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Rishparna02/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Rishparna02/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Rishparna02/Leetcode/tree/main/0018-4sum/) | Medium |
@@ -53,6 +54,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Rishparna02/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Rishparna02/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Rishparna02/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishparna02/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -152,6 +154,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Rishparna02/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishparna02/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Rishparna02/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Binary Search
