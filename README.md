@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishparna02/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Rishparna02/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Rishparna02/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishparna02/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Rishparna02/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -35,6 +36,7 @@
 | [0036-valid-sudoku](https://github.com/Rishparna02/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rishparna02/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Rishparna02/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishparna02/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishparna02/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -169,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Rishparna02/Leetcode/tree/main/0189-rotate-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rishparna02/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
