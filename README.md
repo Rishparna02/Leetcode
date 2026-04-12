@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishparna02/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Rishparna02/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishparna02/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Rishparna02/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishparna02/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Rishparna02/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -153,6 +154,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishparna02/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Rishparna02/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishparna02/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -176,6 +178,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishparna02/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishparna02/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishparna02/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishparna02/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Rishparna02/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishparna02/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Rishparna02/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
