@@ -1,22 +1,30 @@
-class Solution {
+class Solution { 
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        Map<Character, Character> closeToOpen = new HashMap<>();
-        closeToOpen.put(')', '(');
-        closeToOpen.put(']', '[');
-        closeToOpen.put('}', '{');
+        if(s.length() % 2 != 0) return false;
 
-        for(char c : s.toCharArray()){
-            if(closeToOpen.containsKey(c)){
-                if(!stack.isEmpty() && stack.peek() == closeToOpen.get(c)){
-                    stack.pop();
-                } else {
-                    return false;
-                }
+        Stack<Character> stack = new Stack<>();
+        
+        for (int i = 0; i < s.length(); i++) {
+            char currentChar = s.charAt(i);
+
+            // Check if it's a closing bracket and stack is empty, return false immediately
+            if (stack.isEmpty() && (currentChar == ')' || currentChar == '}' || currentChar == ']')) {
+                return false;
+            }
+            
+            if (currentChar == ')' && stack.peek() == '(') {
+                stack.pop();
+            } else if (currentChar == '}' && stack.peek() == '{') {
+                stack.pop();
+            } else if (currentChar == ']' && stack.peek() == '[') {
+                stack.pop();
             } else {
-                stack.push(c);
+                // If it's an opening bracket or no match, push to stack
+                stack.add(currentChar);
             }
         }
+
+        // Return true if stack is empty (all brackets matched)
         return stack.isEmpty();
     }
 }
