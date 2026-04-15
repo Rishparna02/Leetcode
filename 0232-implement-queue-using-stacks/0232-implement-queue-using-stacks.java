@@ -1,45 +1,40 @@
 class MyQueue {
-    private Stack<Integer> input; // Instance variable for input stack
-    private Stack<Integer> output; // Instance variable for output stack
+    private Stack<Integer> stack1;
+    private Stack<Integer> stack2;
 
     public MyQueue() {
-        input = new Stack<>(); // Initialize the input stack
-        output = new Stack<>(); // Initialize the output stack
+        stack1 = new Stack<>();
+        stack2 = new Stack<>();
     }
     
     public void push(int x) {
-        // Move elements from input to output stack
-        while (!input.empty()) {
-            output.push(input.pop());
-        }
-        // Push the new element onto the input stack
-        input.push(x);
-        // Move elements back from output stack to input stack
-        while (!output.empty()) {
-            input.push(output.pop());
-        }
-        
-        System.out.println("The element pushed is " + x);
+        stack1.push(x);
     }
     
     public int pop() {
-        if (input.empty()) {
-            System.out.println("Queue is empty");
-            return -1; // or throw an exception
+        while(stack1.size() > 1){
+            stack2.push(stack1.pop());
         }
-        return input.pop(); // Pop and return the front element
+        int res = stack1.pop();
+        while(!stack2.isEmpty()){
+            stack1.push(stack2.pop());
+        }
+        return res;
     }
     
     public int peek() {
-        if (input.empty()) {
-            System.out.println("Queue is empty");
-            return -1; // or throw an exception
+        while(stack1.size() > 1) {
+            stack2.push(stack1.pop());
         }
-        return input.peek(); // Return the front element without removing it
+        int res = stack1.peek();
+        while(!stack2.isEmpty()){
+            stack1.push(stack2.pop());
+        }
+        return res;
     }
     
     public boolean empty() {
-        return input.empty(); // Check if the input stack is empty
+        return stack1.isEmpty();
     }
 }
 
