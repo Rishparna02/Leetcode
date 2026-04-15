@@ -118,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rishparna02/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Rishparna02/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/Rishparna02/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
@@ -205,6 +206,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rishparna02/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Rishparna02/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Rishparna02/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/Rishparna02/Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -214,4 +216,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rishparna02/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Rishparna02/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
