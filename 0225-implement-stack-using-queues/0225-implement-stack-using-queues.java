@@ -1,19 +1,19 @@
 class MyStack {
-    private Queue<Integer> q;
+    private Queue<Integer> q ;
 
     public MyStack() {
         q = new LinkedList<>();
     }
     
     public void push(int x) {
-        q.add(x);
-        for(int i = 0; i < q.size() - 1; i++ ){
-            q.add(q.remove());
+        q.offer(x);
+        for(int i = q.size() - 1; i > 0; i--){
+            q.offer(q.poll());
         }
     }
     
     public int pop() {
-        return q.remove();
+        return q.poll();
     }
     
     public int top() {
