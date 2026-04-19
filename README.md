@@ -126,6 +126,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/Rishparna02/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0901-online-stock-span](https://github.com/Rishparna02/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +218,7 @@
 | [0682-baseball-game](https://github.com/Rishparna02/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rishparna02/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rishparna02/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Rishparna02/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,4 +233,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Rishparna02/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Rishparna02/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Rishparna02/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
