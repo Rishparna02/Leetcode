@@ -62,6 +62,7 @@
 | [0071-simplify-path](https://github.com/Rishparna02/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rishparna02/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Rishparna02/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0394-decode-string](https://github.com/Rishparna02/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishparna02/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Rishparna02/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Rishparna02/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -219,6 +220,7 @@
 | [0155-min-stack](https://github.com/Rishparna02/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Rishparna02/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Rishparna02/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/Rishparna02/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0682-baseball-game](https://github.com/Rishparna02/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rishparna02/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rishparna02/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -244,4 +246,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Rishparna02/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/Rishparna02/Leetcode/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
