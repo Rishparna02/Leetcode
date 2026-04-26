@@ -37,6 +37,7 @@
 | [0735-asteroid-collision](https://github.com/Rishparna02/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rishparna02/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Rishparna02/Leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Rishparna02/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Rishparna02/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Hash Table
@@ -203,6 +204,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Rishparna02/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Rishparna02/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Rishparna02/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Rishparna02/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
