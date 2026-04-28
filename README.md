@@ -19,6 +19,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishparna02/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rishparna02/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishparna02/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishparna02/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishparna02/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Rishparna02/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -200,6 +201,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Rishparna02/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Rishparna02/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishparna02/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishparna02/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishparna02/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Rishparna02/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
