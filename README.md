@@ -128,6 +128,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rishparna02/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Rishparna02/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/Rishparna02/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
@@ -271,6 +272,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rishparna02/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Rishparna02/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Rishparna02/Leetcode/tree/main/0394-decode-string/) | Medium |
 ## Interactive
