@@ -29,6 +29,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Rishparna02/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishparna02/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Rishparna02/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Rishparna02/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishparna02/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -98,6 +99,7 @@
 | [0143-reorder-list](https://github.com/Rishparna02/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishparna02/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Rishparna02/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Rishparna02/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Rishparna02/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Rishparna02/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Rishparna02/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -223,6 +225,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishparna02/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishparna02/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishparna02/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Rishparna02/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Rishparna02/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Rishparna02/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Rishparna02/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -293,4 +296,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Rishparna02/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rishparna02/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
