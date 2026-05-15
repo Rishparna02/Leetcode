@@ -260,6 +260,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rishparna02/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Rishparna02/Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishparna02/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/Rishparna02/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishparna02/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Rishparna02/Leetcode/tree/main/0155-min-stack/) | Medium |
@@ -312,4 +313,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Rishparna02/Leetcode/tree/main/0146-lru-cache/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishparna02/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishparna02/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishparna02/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
