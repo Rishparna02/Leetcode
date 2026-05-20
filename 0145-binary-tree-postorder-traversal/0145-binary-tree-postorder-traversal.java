@@ -13,21 +13,32 @@
  *     }
  * }
  */
-public class Solution {
-    private List<Integer> res;
-
+class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        res = new ArrayList<>();
-        postorder(root);
-        return res;
-    }
+        Stack<TreeNode> stack = new Stack<>();
+        Stack<Boolean> visit = new Stack<>();
+        List<Integer> res = new ArrayList<>();
 
-    private void postorder(TreeNode node) {
-        if (node == null) {
-            return;
+        stack.push(root);
+        visit.push(false);
+
+        while(!stack.isEmpty()) {
+            TreeNode cur = stack.pop();
+            boolean v = visit.pop();
+
+            if(cur != null){
+                if(v) {
+                    res.add(cur.val);
+                } else {
+                    stack.push(cur);
+                    visit.push(true);
+                    stack.push(cur.right);
+                    visit.push(false);
+                    stack.push(cur.left);
+                    visit.push(false);
+                }
+            }
         }
-        postorder(node.left);
-        postorder(node.right);
-        res.add(node.val);
+        return res;
     }
 }
