@@ -32,6 +32,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Rishparna02/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0427-construct-quad-tree](https://github.com/Rishparna02/Leetcode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishparna02/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/Rishparna02/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Rishparna02/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -113,6 +114,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0427-construct-quad-tree](https://github.com/Rishparna02/Leetcode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -200,6 +202,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Rishparna02/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0427-construct-quad-tree](https://github.com/Rishparna02/Leetcode/tree/main/0427-construct-quad-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +332,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rishparna02/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishparna02/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0427-construct-quad-tree](https://github.com/Rishparna02/Leetcode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Rishparna02/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Rishparna02/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
