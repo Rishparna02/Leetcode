@@ -35,6 +35,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0427-construct-quad-tree](https://github.com/Rishparna02/Leetcode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishparna02/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/Rishparna02/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Rishparna02/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Rishparna02/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Rishparna02/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -68,6 +69,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Rishparna02/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishparna02/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Rishparna02/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/Rishparna02/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0705-design-hashset](https://github.com/Rishparna02/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Rishparna02/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -132,6 +134,7 @@
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishparna02/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Rishparna02/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Rishparna02/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/Rishparna02/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Rishparna02/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -143,6 +146,7 @@
 | [0169-majority-element](https://github.com/Rishparna02/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rishparna02/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Rishparna02/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +185,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Rishparna02/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Rishparna02/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rishparna02/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -235,6 +240,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rishparna02/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishparna02/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/Rishparna02/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Rishparna02/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Rishparna02/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Binary Search
