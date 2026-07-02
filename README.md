@@ -171,6 +171,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Rishparna02/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0622-design-circular-queue](https://github.com/Rishparna02/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rishparna02/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/Rishparna02/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0901-online-stock-span](https://github.com/Rishparna02/Leetcode/tree/main/0901-online-stock-span/) | Medium |
@@ -187,6 +188,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Rishparna02/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Rishparna02/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rishparna02/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rishparna02/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Rishparna02/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -316,6 +318,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rishparna02/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Rishparna02/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -359,6 +362,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Rishparna02/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishparna02/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rishparna02/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Rishparna02/Leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
@@ -401,6 +405,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Rishparna02/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishparna02/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rishparna02/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Rishparna02/Leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -424,6 +429,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishparna02/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Rishparna02/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishparna02/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rishparna02/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
