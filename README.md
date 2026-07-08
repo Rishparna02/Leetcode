@@ -91,6 +91,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Rishparna02/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/Rishparna02/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Rishparna02/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1405-longest-happy-string](https://github.com/Rishparna02/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Rishparna02/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -203,6 +204,7 @@
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rishparna02/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Rishparna02/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1405-longest-happy-string](https://github.com/Rishparna02/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Rishparna02/Leetcode/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -259,6 +261,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Rishparna02/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/Rishparna02/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Rishparna02/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1405-longest-happy-string](https://github.com/Rishparna02/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
