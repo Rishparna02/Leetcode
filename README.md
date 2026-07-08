@@ -52,6 +52,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Rishparna02/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishparna02/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/Rishparna02/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1094-car-pooling](https://github.com/Rishparna02/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Rishparna02/Leetcode/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@
 | [0881-boats-to-save-people](https://github.com/Rishparna02/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rishparna02/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1094-car-pooling](https://github.com/Rishparna02/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Rishparna02/Leetcode/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -204,6 +206,7 @@
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rishparna02/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Rishparna02/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1094-car-pooling](https://github.com/Rishparna02/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1405-longest-happy-string](https://github.com/Rishparna02/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Rishparna02/Leetcode/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Merge Sort
@@ -242,6 +245,7 @@
 | [0238-product-of-array-except-self](https://github.com/Rishparna02/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishparna02/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1094-car-pooling](https://github.com/Rishparna02/Leetcode/tree/main/1094-car-pooling/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +324,7 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Rishparna02/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rishparna02/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [1094-car-pooling](https://github.com/Rishparna02/Leetcode/tree/main/1094-car-pooling/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
