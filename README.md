@@ -20,6 +20,7 @@
 | [0047-permutations-ii](https://github.com/Rishparna02/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Rishparna02/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Rishparna02/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishparna02/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rishparna02/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Rishparna02/Leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -91,6 +92,7 @@
 | [0014-longest-common-prefix](https://github.com/Rishparna02/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rishparna02/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Rishparna02/Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0079-word-search](https://github.com/Rishparna02/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rishparna02/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Rishparna02/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/Rishparna02/Leetcode/tree/main/0394-decode-string/) | Medium |
@@ -244,6 +246,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Rishparna02/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0079-word-search](https://github.com/Rishparna02/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0427-construct-quad-tree](https://github.com/Rishparna02/Leetcode/tree/main/0427-construct-quad-tree/) | Medium |
 ## Prefix Sum
@@ -402,6 +405,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Rishparna02/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishparna02/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Rishparna02/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Rishparna02/Leetcode/tree/main/0100-same-tree/) | Easy |
@@ -477,6 +481,7 @@
 | [0047-permutations-ii](https://github.com/Rishparna02/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Rishparna02/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Rishparna02/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Rishparna02/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rishparna02/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
