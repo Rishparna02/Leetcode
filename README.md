@@ -94,6 +94,7 @@
 | [0071-simplify-path](https://github.com/Rishparna02/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/Rishparna02/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rishparna02/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Rishparna02/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/Rishparna02/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/Rishparna02/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishparna02/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -266,6 +267,7 @@
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishparna02/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishparna02/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Rishparna02/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0337-house-robber-iii](https://github.com/Rishparna02/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -483,6 +485,7 @@
 | [0078-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Rishparna02/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Rishparna02/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Rishparna02/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rishparna02/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
