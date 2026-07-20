@@ -67,6 +67,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishparna02/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishparna02/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rishparna02/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/Rishparna02/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishparna02/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rishparna02/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -90,6 +91,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishparna02/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Rishparna02/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rishparna02/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Rishparna02/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Rishparna02/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/Rishparna02/Leetcode/tree/main/0079-word-search/) | Medium |
@@ -477,6 +479,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rishparna02/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/Rishparna02/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Rishparna02/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Rishparna02/Leetcode/tree/main/0046-permutations/) | Medium |
