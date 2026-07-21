@@ -42,6 +42,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishparna02/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0427-construct-quad-tree](https://github.com/Rishparna02/Leetcode/tree/main/0427-construct-quad-tree/) | Medium |
+| [0473-matchsticks-to-square](https://github.com/Rishparna02/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rishparna02/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Rishparna02/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Rishparna02/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
@@ -271,6 +272,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishparna02/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Rishparna02/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0337-house-robber-iii](https://github.com/Rishparna02/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
+| [0473-matchsticks-to-square](https://github.com/Rishparna02/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +378,7 @@
 | [0078-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Rishparna02/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Rishparna02/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0473-matchsticks-to-square](https://github.com/Rishparna02/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rishparna02/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -489,6 +492,7 @@
 | [0079-word-search](https://github.com/Rishparna02/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Rishparna02/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Rishparna02/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0473-matchsticks-to-square](https://github.com/Rishparna02/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rishparna02/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -498,4 +502,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rishparna02/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0473-matchsticks-to-square](https://github.com/Rishparna02/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 <!---LeetCode Topics End-->
