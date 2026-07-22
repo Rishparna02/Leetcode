@@ -48,6 +48,7 @@
 | [0622-design-circular-queue](https://github.com/Rishparna02/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Rishparna02/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Rishparna02/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0704-binary-search](https://github.com/Rishparna02/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/Rishparna02/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
@@ -273,6 +274,7 @@
 | [0131-palindrome-partitioning](https://github.com/Rishparna02/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0337-house-robber-iii](https://github.com/Rishparna02/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Rishparna02/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +381,7 @@
 | [0090-subsets-ii](https://github.com/Rishparna02/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Rishparna02/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Rishparna02/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rishparna02/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -493,6 +496,7 @@
 | [0090-subsets-ii](https://github.com/Rishparna02/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Rishparna02/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Rishparna02/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rishparna02/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -506,4 +510,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0473-matchsticks-to-square](https://github.com/Rishparna02/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 <!---LeetCode Topics End-->
