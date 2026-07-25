@@ -99,6 +99,7 @@
 | [0079-word-search](https://github.com/Rishparna02/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rishparna02/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Rishparna02/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rishparna02/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0344-reverse-string](https://github.com/Rishparna02/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/Rishparna02/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishparna02/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -112,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rishparna02/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rishparna02/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +196,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Rishparna02/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Rishparna02/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rishparna02/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Rishparna02/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Rishparna02/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -424,6 +427,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishparna02/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishparna02/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Rishparna02/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rishparna02/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishparna02/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishparna02/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
