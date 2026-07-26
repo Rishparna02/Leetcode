@@ -64,6 +64,7 @@
 | [1094-car-pooling](https://github.com/Rishparna02/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Rishparna02/Leetcode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rishparna02/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2707-extra-characters-in-a-string](https://github.com/Rishparna02/Leetcode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/Rishparna02/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Rishparna02/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [2707-extra-characters-in-a-string](https://github.com/Rishparna02/Leetcode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,11 +111,13 @@
 | [0981-time-based-key-value-store](https://github.com/Rishparna02/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1405-longest-happy-string](https://github.com/Rishparna02/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Rishparna02/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2707-extra-characters-in-a-string](https://github.com/Rishparna02/Leetcode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rishparna02/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rishparna02/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [2707-extra-characters-in-a-string](https://github.com/Rishparna02/Leetcode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +282,7 @@
 | [0337-house-robber-iii](https://github.com/Rishparna02/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Rishparna02/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [2707-extra-characters-in-a-string](https://github.com/Rishparna02/Leetcode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
