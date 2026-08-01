@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int minExtraChar(String s, String[] dictionary) {
         Set<String> words = new HashSet<>(Arrays.asList(dictionary));
         int n = s.length();
