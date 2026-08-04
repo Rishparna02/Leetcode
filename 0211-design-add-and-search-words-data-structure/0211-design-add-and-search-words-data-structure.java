@@ -1,60 +1,59 @@
-class WordDictionary {
+public class TrieNode {
+    TrieNode[] children;
+    boolean word;
 
-    TrieNode root;
+    public TrieNode() {
+        children = new TrieNode[26];
+        word = false;
+    }
+}
+class WordDictionary {
+    private TrieNode root;
 
     public WordDictionary() {
         root = new TrieNode();
     }
     
     public void addWord(String word) {
-        TrieNode curr = root;
-
-        for (char c : word.toCharArray()) {
-            int index = c - 'a';
-
-            if (curr.children[index] == null) {
-                curr.children[index] = new TrieNode();
+        TrieNode cur = root;
+        for(char c : word.toCharArray()) {
+            if(cur.children[c - 'a'] == null) {
+                cur.children[c - 'a'] = new TrieNode();
             }
-
-            curr = curr.children[index];
+            cur = cur.children[c - 'a'];
         }
-
-        curr.word = true;
-    }
-    
+        cur.word = true;
+    }    
     public boolean search(String word) {
         return dfs(word, 0, root);
+        
     }
+    private boolean dfs(String word, int j, TrieNode root) {
+        TrieNode cur = root;
 
-    private boolean dfs(String word, int index, TrieNode curr) {
-        for (int i = index; i < word.length(); i++) {
+        for(int i = j; i < word.length(); i++){
             char c = word.charAt(i);
-
-            if (c == '.') {
-                // Try every possible child
-                for (TrieNode child : curr.children) {
-                    if (child != null && dfs(word, i + 1, child)) {
+            if(c == '.') {
+                for(TrieNode child : cur.children) {
+                    if(child != null && dfs(word, i + 1, child)) {
                         return true;
                     }
                 }
-
                 return false;
+            } else {
+                if(cur.children[c - 'a'] == null) {
+                    return false;
+                }
+                cur = cur.children[c - 'a'];
             }
-
-            int childIndex = c - 'a';
-
-            if (curr.children[childIndex] == null) {
-                return false;
-            }
-
-            curr = curr.children[childIndex];
         }
-
-        return curr.word;
+        return cur.word;
     }
 }
 
-class TrieNode {
-    TrieNode[] children = new TrieNode[26];
-    boolean word = false;
-}
+/**
+ * Your WordDictionary object will be instantiated and called as such:
+ * WordDictionary obj = new WordDictionary();
+ * obj.addWord(word);
+ * boolean param_2 = obj.search(word);
+ */
