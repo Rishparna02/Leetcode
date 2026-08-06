@@ -59,6 +59,7 @@
 | [0875-koko-eating-bananas](https://github.com/Rishparna02/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Rishparna02/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/Rishparna02/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Rishparna02/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishparna02/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/Rishparna02/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -89,6 +90,7 @@
 | [0705-design-hashset](https://github.com/Rishparna02/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/Rishparna02/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/Rishparna02/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Rishparna02/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Rishparna02/Leetcode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## String
@@ -109,6 +111,7 @@
 | [0567-permutation-in-string](https://github.com/Rishparna02/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Rishparna02/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/Rishparna02/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/Rishparna02/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Rishparna02/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1405-longest-happy-string](https://github.com/Rishparna02/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Rishparna02/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
