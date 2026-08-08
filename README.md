@@ -62,6 +62,7 @@
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Rishparna02/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Rishparna02/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Rishparna02/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishparna02/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/Rishparna02/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/Rishparna02/Leetcode/tree/main/1094-car-pooling/) | Medium |
@@ -93,6 +94,7 @@
 | [0767-reorganize-string](https://github.com/Rishparna02/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Rishparna02/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Rishparna02/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Rishparna02/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [2707-extra-characters-in-a-string](https://github.com/Rishparna02/Leetcode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -536,4 +538,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/Rishparna02/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
