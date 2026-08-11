@@ -50,6 +50,7 @@
 | [0622-design-circular-queue](https://github.com/Rishparna02/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Rishparna02/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Rishparna02/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0695-max-area-of-island](https://github.com/Rishparna02/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Rishparna02/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0704-binary-search](https://github.com/Rishparna02/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/Rishparna02/Leetcode/tree/main/0705-design-hashset/) | Easy |
@@ -270,6 +271,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Rishparna02/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0427-construct-quad-tree](https://github.com/Rishparna02/Leetcode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/Rishparna02/Leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0695-max-area-of-island](https://github.com/Rishparna02/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +284,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rishparna02/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0695-max-area-of-island](https://github.com/Rishparna02/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +455,7 @@
 | [0463-island-perimeter](https://github.com/Rishparna02/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Rishparna02/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/Rishparna02/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Rishparna02/Leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -487,6 +491,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rishparna02/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/Rishparna02/Leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0695-max-area-of-island](https://github.com/Rishparna02/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
