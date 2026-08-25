@@ -64,6 +64,7 @@
 | [0912-sort-an-array](https://github.com/Rishparna02/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Rishparna02/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Rishparna02/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/Rishparna02/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Rishparna02/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishparna02/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/Rishparna02/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -275,6 +276,7 @@
 | [0427-construct-quad-tree](https://github.com/Rishparna02/Leetcode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/Rishparna02/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Rishparna02/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/Rishparna02/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +501,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Rishparna02/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/Rishparna02/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Rishparna02/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/Rishparna02/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
