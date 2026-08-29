@@ -59,6 +59,7 @@
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rishparna02/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rishparna02/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0752-open-the-lock](https://github.com/Rishparna02/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0853-car-fleet](https://github.com/Rishparna02/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Rishparna02/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Rishparna02/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -96,6 +97,7 @@
 | [0621-task-scheduler](https://github.com/Rishparna02/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0705-design-hashset](https://github.com/Rishparna02/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Rishparna02/Leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0752-open-the-lock](https://github.com/Rishparna02/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Rishparna02/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Rishparna02/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Rishparna02/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -118,6 +120,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Rishparna02/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Rishparna02/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Rishparna02/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0752-open-the-lock](https://github.com/Rishparna02/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Rishparna02/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Rishparna02/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Rishparna02/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -506,6 +509,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Rishparna02/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/Rishparna02/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Rishparna02/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0752-open-the-lock](https://github.com/Rishparna02/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/Rishparna02/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rishparna02/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## String Matching
@@ -563,4 +567,8 @@
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Rishparna02/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Rishparna02/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/Rishparna02/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
